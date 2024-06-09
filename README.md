@@ -4,6 +4,7 @@
 - 👀 I’m interested in ... 
 
 본인 치매 예방을 위한 키워드 저장노트입니다
+
 네 그렇게 됐습니다..
 
 - Network : router, gateway, nac, nat, firwall, isp, modem, dsl, access point, edge switch
