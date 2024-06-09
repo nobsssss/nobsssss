@@ -3,6 +3,6 @@
 - 👀 I’m interested in ...
 - 👀 I’m interested in ... 
 
-I got new trash
+Nobs got new trash
 
 - Network : router, gateway, nac, nat, firwall, isp, modem, dsl, access point, edge switch 
